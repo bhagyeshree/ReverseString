@@ -15,6 +15,9 @@ class ReverseString
             temparrayvariable[right]=temp;
         }
  
+
+//hello how are you 
+
         for (char c : temparrayvariable)
             System.out.print(c);
         System.out.println();
